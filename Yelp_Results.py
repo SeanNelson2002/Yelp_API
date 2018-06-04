@@ -1,5 +1,5 @@
 import Yelp_Business_API as Yelp
-token = '2qKgZjKIv3G7R5DYAPzSYlFmMV9RHu8OWTsRyOLXI6kODO4_Wdshp-A5BpJ9glUbgd4sEdlX0JtuKJsywvuoAfcE1aFbV-Lq9Km28NJVTP8BRKaDEmTkee-011EgWnYx'
+token = '<Token Here>'
 Info_Back = ['Name','Rating']
 Field_Name = 'yes'
 Params_1 = {
